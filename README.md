@@ -6,6 +6,12 @@
 Custom Marlin firmware for Artillery Genius printer.  
 Marlin firmware v2.0.7.0  
 
+## Build
+
+Visual Studio Code  
+PlatformIO  
+Marlin Autobuild  
+
 ## Features
 
 M600  
